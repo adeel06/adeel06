@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adeel06
-- 👀 I’m interested in ... DeepTech, AId FinTech, Crypto
+- 👀 I’m interested in ... DeepTech, AI FinTech, Crypto
 - 🌱 I’m currently learning ... Engineering Management
 - 📫 How to reach me ... linkedin.com/in/adamanwar06
 
